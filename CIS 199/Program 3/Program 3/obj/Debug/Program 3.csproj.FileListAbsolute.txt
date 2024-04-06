@@ -1,0 +1,44 @@
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\paulm\Desktop\Visual studio\Program 3\Program 3\obj\Debug\Program 3.pdb
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\obj\Debug\Program 3.pdb
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\Phillip\Downloads\Program 3\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\paulm\Desktop\Better Prog3\Better Prog3\Program 3\Program 3\obj\Debug\Program 3.pdb
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\paulm\Desktop\Program 3\Program 3\obj\Debug\Program 3.pdb
+C:\Users\paulm\Desktop\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\paulm\Desktop\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\paulm\Desktop\Program 3\Program 3\bin\Debug\Program 3.pdb
